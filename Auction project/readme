@@ -1,1 +1,14 @@
+This is the "Auction" smart contract Project with Remix IDE Solidity platform
+
+All the codes have comments which able to provide detail explaintion.
+
+Some Detail:
+3 items, 4 bidders.
+
+The creation address is the "Chairperson" who is the only one able to tell the winner by using the modifier condition.
+
+Bidders able to register itself and able to vote their favoriate item from the Auction.
+
+Every bidder have 5 tokens to vote and once used up, unable to provide more tokens unless start new auction.
+
 
